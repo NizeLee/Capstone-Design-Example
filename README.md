@@ -7,7 +7,7 @@
 
 ## Schedule
 | Contents | March | April | May | June |
-| Topic | 9 | a | a | b|
+| Topic    | 9     |     a |   a |     b|
 
 ## Results
 
