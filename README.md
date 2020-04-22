@@ -6,11 +6,25 @@
 * Goals, objectives (evaluation)
 
 ## Schedule
-| Contents | March | April | May | June |
-|----------|-------| ------|-----|------|
-| Topic    | 9     |     a |   a |     b|
+| Contents | March | April |  May  | June  |
+|----------|-------|-------|-------|-------|
+|  Topic1  |       |       |       |       |
+|  Topic2  |       |       |       |       |
 
 ## Results
+* Main code, table, graph, comparison, ...
+* Web link
+
+``` C++
+void Example(int x, int y) {
+   ...  
+   ... // comment
+   ...
+}
+```
+
+## Conclusion
+* Summary, contribution, ...
 
 ## Reports
 * Upload or link (e.g. Google Drive files with share setting)
