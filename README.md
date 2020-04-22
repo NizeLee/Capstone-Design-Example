@@ -2,11 +2,16 @@
 * Student list
 
 ## Overview
-* Open program sources (without OpenCV)
+* Needs, problems
+* Goals, objectives (evaluation)
 
 ## Schedule
-* Open program sources (without OpenCV)
+| Contents | March | April | May | June |
+| Topic | 9 | a | a | b|
+
+## Results
 
 ## Reports
+* Upload or link (e.g. Google Drive files with share setting)
 * Midterm: [Report](Midterm.pdf)
 * Final: [Report](Final.pdf), [Demo video](Demo.mp4)
