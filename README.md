@@ -1,4 +1,4 @@
-# Project title
+# Project title (Capstone design 2020-2)
 * Student list
 
 ## Overview
