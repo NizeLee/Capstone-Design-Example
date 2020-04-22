@@ -8,5 +8,5 @@
 * Open program sources (without OpenCV)
 
 ## Reports
-* Midterm: [FileName](Midterm.docx)
-* Final: [FileName](Final.docx)
+* Midterm: [Report](Midterm.pdf)
+* Final: [Report](Final.pdf), [Demo video](Demo.mp4)
