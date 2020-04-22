@@ -6,10 +6,10 @@
 * Goals, objectives (evaluation)
 
 ## Schedule
-| Contents | March | April |  May  | June  |
-|----------|-------|-------|-------|-------|
-|  Topic1  |       |       |       |       |
-|  Topic2  |       |       |       |       |
+| Contents | March | April |  May  | June  |   Progress   |
+|----------|-------|-------|-------|-------|--------------|
+|  Topic1  |       |       |       |       |     Link1    |
+|  Topic2  |       |       |       |       |     Link2    |
 
 ## Results
 * Main code, table, graph, comparison, ...
